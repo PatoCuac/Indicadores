@@ -1,0 +1,12 @@
+graph LR
+    A[3.3.2 VARIABLES] --> B[V.1 La falta de experiencia laboral]
+    A --> C[V.2 Una mala administración del emprendimiento en los jóvenes]
+    B --> D[3.3.3 INDICADORES]
+    C --> D
+    D --> E[A) Falta de experiencia laboral: Porcentaje de jóvenes que no han trabajado antes de emprender y que no tienen las habilidades necesarias para su negocio.]
+    D --> F[B) Dificultad para encontrar estrategias efectivas: Porcentaje de jóvenes que no saben cómo mejorar su oferta, atraer clientes o generar ingresos.]
+    D --> G[C) Falta de referencias laborales: Porcentaje de jóvenes que no tienen contactos o redes que les ayuden o recomienden en su negocio.]
+    D --> H[A) Desconocimiento del mercado: Porcentaje de jóvenes que no han investigado o no conocen las características, necesidades y preferencias de sus clientes potenciales.]
+    D --> I[B) Falta de planeación financiera: Porcentaje de jóvenes que no tienen un presupuesto, un plan de ingresos y egresos, o un control de sus gastos e inversiones.]
+    D --> J[C) Ausencia de objetivos y metas: Porcentaje de jóvenes que no han definido qué quieren lograr, cómo lo van a medir y en qué plazo lo van a cumplir.]
+    D --> K[D) Incumplimiento de normas y obligaciones: Porcentaje de jóvenes que no han registrado su negocio, que no pagan impuestos o que no cumplen con las regulaciones sanitarias, ambientales o laborales.]
